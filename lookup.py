@@ -12,6 +12,7 @@ def parseMarketPages(nbPages):
 def main():
   print('Script Running!')
   parseMarketPages(3)
+  print('Script Finished!')
 
 if __name__ == '__main__':
   main()
